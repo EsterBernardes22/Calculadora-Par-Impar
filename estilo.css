@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+
+body {
+    font-size: 12pt;
+    font-family: Arial, sans-serif; 
+    text-align: center;
+    margin-top: 23%;
+    background-image: url('fundo.webp'); 
+}
+
+h1 {
+    font-family: 'Lato', sans-serif; 
+    font-weight: normal;
+}
+
+label {
+    font-family: 'Lato', sans-serif;
+}
+
+input {
+    font-family: 'Lato', sans-serif; 
+}
+
+button {
+    font-size: 12pt;
+    padding: 30px;
+    font-family: 'Lato', sans-serif; 
+}
+
+p {
+    font-family: 'Lato', sans-serif; 
+}
